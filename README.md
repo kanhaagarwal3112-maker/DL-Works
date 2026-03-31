@@ -6,7 +6,7 @@
 
 **Registration Number:** 25BAI11504
 
-**Branch:** B.Tech CSE
+**Branch:** B.Tech CSE AIML
 
 **Year:** 1st Year
 
